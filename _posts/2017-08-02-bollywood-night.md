@@ -7,4 +7,4 @@ featured: false
 hidden: false
 ---
 
-Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings..
+Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances. Kids from all GR schools participated and enjoyed the event.

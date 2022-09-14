@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/about",
-    "title": "Mediumish Template for Jekyll",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "title": "About the people",
+    "body": "We are a couple of expats, who immigrated from India to US, and ended up in Glen Rock, NJ. Over the years we have kept the Indian culture alive by organizing festivals, cultural events, donation drives. This site serves as a timeline of our history in Glen Rock, documenting our memories around past events. If you would like to post an article about an event being hosted or would like to document past events, check the github page for more details.  "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                           Celebrating Diwali                              :               Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal. :                                                                       12 Sep 2022                &lt;/span&gt;                                                                                                                        All Stories:                                                                                                     Glen Rock Holi 2018 - Happy Earth Day              :       https://www. facebook. com/media/set/?set=a. 1677931428926720&amp;type=3:                               04 May 2018        &lt;/span&gt;                                                                                                                             Bollywood Night              :       Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings. . . . . :                               02 Aug 2017        &lt;/span&gt;                                                                                                                             Diwali 2015              :       We successfully conducted our second Diwali festival at Glen Rock! The kids put together an awesome Ramayan show. Check the pictures out below. :                               20 Nov 2015        &lt;/span&gt;                                    "
+    "body": "      Featured:                                                                                                                                                                                                           Diwali - Registration                              :               Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more!:                                                                       13 Sep 2022                &lt;/span&gt;                                                                                                                                                            All Stories:                                                                                                     Save the Date!              :       Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more!:                               09 Sep 2022        &lt;/span&gt;                                                                                                                             Diwali Fest              :       With COVID-19 restrictions still in place, we have decided to host a Diwali Mela on open ground. :                               23 Oct 2021        &lt;/span&gt;                                                                                                                             Holi 2020 - Poster              :       Registrations open! Check Glen Rock Indian Community Facebook Page:                               12 Feb 2020        &lt;/span&gt;                                                                                                                             Holi 2019 - Poster              :       Registrations open! Check Glen Rock Indian Community Facebook Page:                               21 Apr 2019        &lt;/span&gt;                                                                                                                             Diwali - Poster              :       Registrations open! Check Glen Rock Indian Community Facebook Page:                               02 Nov 2018        &lt;/span&gt;                                                                                                                             Bollywood Night              :       Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances. Kids from all GR schools participated and. . . :                               02 Aug 2017        &lt;/span&gt;                                       &laquo; Prev       1        2      Next &raquo; "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
@@ -26,21 +26,56 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/pre-diwali-2022/",
-    "title": "Celebrating Diwali",
-    "body": "2022/09/12 - Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal. Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more! Dress up in your fanciest traditional garb and join us "
+    "url": "http://localhost:4000/page2/",
+    "title": "Home",
+    "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
-    "url": "http://localhost:4000/holi-2018/",
-    "title": "Glen Rock Holi 2018 - Happy Earth Day",
-    "body": "2018/05/04 - https://www. facebook. com/media/set/?set=a. 1677931428926720&amp;type=3 "
+    "url": "http://localhost:4000/diwali-registration-2022/",
+    "title": "Diwali - Registration",
+    "body": "2022/09/13 - Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more! Welcome to Diwali 2022, now that things are back to the old normal, it’s time we celebrate things the old normal way! Dress up in your fanciest traditional garb and join us for the ultimate Diwali Party of the YEAR! Sign up for Diwali 2022: Loading… "
     }, {
     "id": 7,
-    "url": "http://localhost:4000/bollywood-night/",
-    "title": "Bollywood Night",
-    "body": "2017/08/02 - Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings. . "
+    "url": "http://localhost:4000/pre-diwali-2022/",
+    "title": "Save the Date!",
+    "body": "2022/09/09 - Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more! Save the date, more details coming soon!! "
     }, {
     "id": 8,
+    "url": "http://localhost:4000/diwali_mela-2021/",
+    "title": "Diwali Fest",
+    "body": "2021/10/23 - With COVID-19 restrictions still in place, we have decided to host a Diwali Mela on open ground. "
+    }, {
+    "id": 9,
+    "url": "http://localhost:4000/holi-2020/",
+    "title": "Holi 2020 - Poster",
+    "body": "2020/02/12 - Registrations open! Check Glen Rock Indian Community Facebook Page "
+    }, {
+    "id": 10,
+    "url": "http://localhost:4000/holi-2019/",
+    "title": "Holi 2019 - Poster",
+    "body": "2019/04/21 - Registrations open! Check Glen Rock Indian Community Facebook Page "
+    }, {
+    "id": 11,
+    "url": "http://localhost:4000/diwali-2018/",
+    "title": "Diwali - Poster",
+    "body": "2018/11/02 - Registrations open! Check Glen Rock Indian Community Facebook Page "
+    }, {
+    "id": 12,
+    "url": "http://localhost:4000/bollywood-night/",
+    "title": "Bollywood Night",
+    "body": "2017/08/02 - Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances. Kids from all GR schools participated and enjoyed the event. "
+    }, {
+    "id": 13,
+    "url": "http://localhost:4000/holi-2017/",
+    "title": "Holi 2017 - Poster",
+    "body": "2017/04/22 - Registrations open! Check Glen Rock Indian Community Facebook Page "
+    }, {
+    "id": 14,
+    "url": "http://localhost:4000/diwali-2016/",
+    "title": "Diwali 2016 - Poster",
+    "body": "2016/10/22 - Registrations open! Check Glen Rock Indian Community Facebook Page "
+    }, {
+    "id": 15,
     "url": "http://localhost:4000/diwali_2015/",
     "title": "Diwali 2015",
     "body": "2015/11/20 - We successfully conducted our second Diwali festival at Glen Rock! The kids put together an awesome Ramayan show. Check the pictures out below. Special Thanks to Pushpesh Gupta! Our Awesome Ravan: "

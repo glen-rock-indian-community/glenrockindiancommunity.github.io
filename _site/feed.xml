@@ -5,19 +5,38 @@
     <description>Community of folks with root in India</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2022 18:33:23 -0400</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2022 18:33:23 -0400</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 23:22:42 -0400</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 23:22:42 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Celebrating Diwali</title>
-        <description>&lt;p&gt;Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal.&lt;/p&gt;
+        <title>Diwali - Registration</title>
+        <description>&lt;p&gt;Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more!&lt;/p&gt;
 
-&lt;p&gt;Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more!&lt;/p&gt;
+&lt;p&gt;Welcome to Diwali 2022, now that things are back to the old normal, it’s time we celebrate things the old normal way! Dress up in your fanciest traditional garb and join us for the ultimate Diwali Party of the YEAR!&lt;/p&gt;
 
-&lt;p&gt;Dress up in your fanciest traditional garb and join us&lt;/p&gt;
+&lt;h2 id=&quot;sign-up-for-diwali-2022&quot;&gt;Sign up for Diwali 2022&lt;/h2&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSduZ8V4td6tQs5_FESzX80aZ5Zzr0kXeqlZvKhIGKHzvyhQIw/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;2718&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading…&lt;/iframe&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Sep 2022 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 13 Sep 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/diwali-registration-2022/</link>
+        <guid isPermaLink="true">http://localhost:4000/diwali-registration-2022/</guid>
+        
+        
+        <category>Cultural</category>
+        
+        <category>Events</category>
+        
+      </item>
+    
+      <item>
+        <title>Save the Date!</title>
+        <description>&lt;p&gt;Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more!&lt;/p&gt;
+
+&lt;p&gt;Save the date, more details coming soon!!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/pre-diwali-2022/</link>
         <guid isPermaLink="true">http://localhost:4000/pre-diwali-2022/</guid>
         
@@ -29,12 +48,57 @@
       </item>
     
       <item>
-        <title>Glen Rock Holi 2018 - Happy Earth Day</title>
-        <description>&lt;p&gt;https://www.facebook.com/media/set/?set=a.1677931428926720&amp;amp;type=3&lt;/p&gt;
+        <title>Diwali Fest</title>
+        <description>&lt;p&gt;With COVID-19 restrictions still in place, we have decided to host a Diwali Mela on open ground.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 May 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/holi-2018/</link>
-        <guid isPermaLink="true">http://localhost:4000/holi-2018/</guid>
+        <pubDate>Sat, 23 Oct 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/diwali_mela-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/diwali_mela-2021/</guid>
+        
+        
+        <category>Cultural</category>
+        
+        <category>Events</category>
+        
+      </item>
+    
+      <item>
+        <title>Holi 2020 - Poster</title>
+        <description>&lt;p&gt;Registrations open! Check &lt;a href=&quot;https://www.facebook.com/groups/1691802091044861/&quot;&gt;Glen Rock Indian Community Facebook Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/holi-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/holi-2020/</guid>
+        
+        
+        <category>Events</category>
+        
+        <category>Cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Holi 2019 - Poster</title>
+        <description>&lt;p&gt;Registrations open! Check &lt;a href=&quot;https://www.facebook.com/groups/1691802091044861/&quot;&gt;Glen Rock Indian Community Facebook Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/holi-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/holi-2019/</guid>
+        
+        
+        <category>Events</category>
+        
+        <category>Cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Diwali - Poster</title>
+        <description>&lt;p&gt;Registrations open! Check &lt;a href=&quot;https://www.facebook.com/groups/1691802091044861/&quot;&gt;Glen Rock Indian Community Facebook Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Nov 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/diwali-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/diwali-2018/</guid>
         
         
         <category>Events</category>
@@ -45,7 +109,7 @@
     
       <item>
         <title>Bollywood Night</title>
-        <description>&lt;p&gt;Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings..&lt;/p&gt;
+        <description>&lt;p&gt;Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances. Kids from all GR schools participated and enjoyed the event.&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Aug 2017 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/bollywood-night/</link>
@@ -53,6 +117,36 @@
         
         
         <category>Events</category>
+        
+      </item>
+    
+      <item>
+        <title>Holi 2017 - Poster</title>
+        <description>&lt;p&gt;Registrations open! Check &lt;a href=&quot;https://www.facebook.com/groups/1691802091044861/&quot;&gt;Glen Rock Indian Community Facebook Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/holi-2017/</link>
+        <guid isPermaLink="true">http://localhost:4000/holi-2017/</guid>
+        
+        
+        <category>Events</category>
+        
+        <category>Cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Diwali 2016 - Poster</title>
+        <description>&lt;p&gt;Registrations open! Check &lt;a href=&quot;https://www.facebook.com/groups/1691802091044861/&quot;&gt;Glen Rock Indian Community Facebook Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/diwali-2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/diwali-2016/</guid>
+        
+        
+        <category>Events</category>
+        
+        <category>Cultural</category>
         
       </item>
     
