@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                           Celebrating Diwali                              :               Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal. :                                                                       12 Sep 2022                &lt;/span&gt;                                                                                                                  All Stories:                                                                                                     Bollywood Night              :       Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings. . . . . :                               02 Aug 2017        &lt;/span&gt;                                                                                                                             Diwali 2015              :       We successfully conducted our second Diwali festival at Glen Rock! The kids put together an awesome Ramayan show. Check the pictures out below. :                               20 Nov 2015        &lt;/span&gt;                                    "
+    "body": "      Featured:                                                                                                                                                                                                           Celebrating Diwali                              :               Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal. :                                                                       12 Sep 2022                &lt;/span&gt;                                                                                                                        All Stories:                                                                                                     Glen Rock Holi 2018 - Happy Earth Day              :       https://www. facebook. com/media/set/?set=a. 1677931428926720&amp;type=3:                               04 May 2018        &lt;/span&gt;                                                                                                                             Bollywood Night              :       Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings. . . . . :                               02 Aug 2017        &lt;/span&gt;                                                                                                                             Diwali 2015              :       We successfully conducted our second Diwali festival at Glen Rock! The kids put together an awesome Ramayan show. Check the pictures out below. :                               20 Nov 2015        &lt;/span&gt;                                    "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
@@ -31,11 +31,16 @@ var documents = [{
     "body": "2022/09/12 - Welcome to Diwali 2022, now that we are back to the old normal, it’s time we celebrate things like the old normal. Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more! Dress up in your fanciest traditional garb and join us "
     }, {
     "id": 6,
+    "url": "http://localhost:4000/holi-2018/",
+    "title": "Glen Rock Holi 2018 - Happy Earth Day",
+    "body": "2018/05/04 - https://www. facebook. com/media/set/?set=a. 1677931428926720&amp;type=3 "
+    }, {
+    "id": 7,
     "url": "http://localhost:4000/bollywood-night/",
     "title": "Bollywood Night",
     "body": "2017/08/02 - Glen Rock Indian Community presented their first Bollywood night at the High School Cafeteria. Kids from all grades participated. Ashwin taught some dances and folks help me with some wordings. . "
     }, {
-    "id": 7,
+    "id": 8,
     "url": "http://localhost:4000/diwali_2015/",
     "title": "Diwali 2015",
     "body": "2015/11/20 - We successfully conducted our second Diwali festival at Glen Rock! The kids put together an awesome Ramayan show. Check the pictures out below. Special Thanks to Pushpesh Gupta! Our Awesome Ravan: "
