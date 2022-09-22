@@ -3,8 +3,8 @@ layout: post
 title:  "Diwali - Dance Performance Registration"
 categories: [ Cultural, Events ]
 image: assets/images/diwali_2022.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
