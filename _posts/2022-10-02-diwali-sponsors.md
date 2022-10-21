@@ -25,7 +25,7 @@ Through extensive research, creative marketing, excellent negotiation skills, so
 
 ## Absolute Home Mortgage Corporation - Gold Sponsor
 
-![Rohit Saraogi](/assets/images/2022_sponsors/absolute_mortgage.png)
+![Rohit Saraogi](/assets/images/2022_sponsors/absolute_mortgage.jpg)
 
 GRIC Diwali’ 22 is co-sponsored by Absolute Home Mortgage Corporation.
 
