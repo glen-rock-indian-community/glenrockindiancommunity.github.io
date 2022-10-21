@@ -5,7 +5,6 @@ categories: [ Cultural, Events ]
 image: assets/images/diwali_2022.png
 featured: false
 hidden: false
-comments: false
 ---
 
 Diwali parties are incomplete without **dance and dj**, if you or your kids love to dance, then join us for a special dance performance. 
