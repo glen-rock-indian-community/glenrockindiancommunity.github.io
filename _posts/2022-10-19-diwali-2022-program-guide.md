@@ -23,8 +23,8 @@ Please check-in at the welcome booth to get your entry bands. Use Milan's main e
 
 > If a participant is late, the performance will continue without them.
 
-### Photographer - Photoberry 
-Photographer will setup a photobooth for personalized family pictures near the welcome booth between **7:00 PM to 8:00 PM**.
+### Photographer 
+Photographer (Photoberry - Saumya Agarwal) will setup a photobooth for personalized family pictures near the welcome booth between **7:00 PM to 8:00 PM**.
 
 ### Mehendi 
 Ms. Asha Patel will be conducting mehendi at the venue. Please bring Cash or Venmo. Mehendi session ends by **9:00PM**
