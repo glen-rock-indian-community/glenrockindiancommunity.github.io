@@ -11,7 +11,7 @@ A special shout out to our sponsors who have helped contribute make Diwali 2022 
 
 ## Ani Messikian - Platinum Sponsor
 
-![Ani Messikian](assets/images/2022_sponsors/ani_compass.png)
+![Ani Messikian](/assets/images/2022_sponsors/ani_compass.png)
 
 Meet Ani Messikian, who is a Bergen County’s Top Real Estate Agent. For those who know her she is a Glen Rocker over 22 years, a gracious hostess herself and a rock solid supporter to GRIC, for years.
 
