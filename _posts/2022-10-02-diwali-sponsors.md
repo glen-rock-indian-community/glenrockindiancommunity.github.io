@@ -25,7 +25,7 @@ Through extensive research, creative marketing, excellent negotiation skills, so
 
 ## Absolute Home Mortgage Corporation - Gold Sponsor
 
-![Rohit Saraogi](assets/images/2022_sponsors/absolute_mortgage.png)
+![Rohit Saraogi](/assets/images/2022_sponsors/absolute_mortgage.png)
 
 GRIC Diwali’ 22 is co-sponsored by Absolute Home Mortgage Corporation.
 
@@ -35,7 +35,7 @@ Talking to Rohit, he says - Buying a house in 2022 can be overwhelming!Let Absol
 
 ## Clemente Orthodontics - Gold Sponsor
 
-![Clemente Orthodontics](assets/images/2022_sponsors/Clemente.png)
+![Clemente Orthodontics](/assets/images/2022_sponsors/Clemente.png)
 
 It is our pleasure to have co-sponsor Clemente  Orthodontics at GRIC Diwali 2022. 
 
@@ -45,7 +45,7 @@ GRIC Volunteer team would like to say a big thank you to Clemente & his team for
 
 ## KVEM - Gold Sponsor
 
-![KVEM](assets/images/2022_sponsors/kvem.jpg)
+![KVEM](/assets/images/2022_sponsors/kvem.jpg)
 
 Are you tired of your old heating system or need a new air conditioning system to cool next summer KVEM Group is the company you can trust.
 
