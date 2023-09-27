@@ -3,8 +3,8 @@ layout: post
 title:  "Diwali 2022 - Program Guide"
 categories: [ Cultural, Events, Announcements ]
 image: assets/images/2022_sponsors/diwali_2022.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Program guide for the day of the event, October 21st. Location Details, Parking Info and Program Schedule. 

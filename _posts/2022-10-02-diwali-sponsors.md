@@ -3,8 +3,8 @@ layout: post
 title:  "Diwali 2022 - Meet the Sponsors"
 categories: [ Cultural, Events ]
 image: assets/images/2022_sponsors/diwali_2022.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 A special shout out to our sponsors who have helped contribute make Diwali 2022 a success.
