@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diwali 2023 - Registration"
+title:  "Diwali 2023 - Registrations Open!"
 categories: [ Cultural, Events ]
 image: assets/images/diwali_2023.png
 featured: true
