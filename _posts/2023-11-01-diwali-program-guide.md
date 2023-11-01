@@ -13,16 +13,15 @@ Get ready for a day filled with music, cultural performances, delicious food, an
 
 ## Program Schedule
 
-| Time | Event|
-|----|----|
+| Time | Event| 
+|----|----| 
 | 6:30pm | Program Commence | 
 | 6:45pm  | Pooja | 
 | 7:00pm  | Snacks & Drink Bar Open | 
 | 7:50pm  | Ganesh Vandana Song | 
-| 8:00pm  | Dance <br/>(In Order of Performance) <ul><li> Kids: 4 - 6 years</li><li> Girls: 7-12 years</li><li> High Schoolers</li><li> Boys: 7-12 years</li><li> Mother - Daughter</li><li> Mother - Son</li><li> Father - Daughter</li><li> Ladies</li></ul>  |
+| 8:00pm  | Dance <br/>(In Order of Performance) <ul><li>Kids: 4 - 6 years</li><li> Girls: 7-12 years</li><li> High Schoolers</li><li> Boys: 7-12 years</li><li> Mother - Daughter</li><li> Mother - Son</li><li> Father - Daughter</li><li> Ladies</li></ul> | 
 | 8:30pm  | Chhaproo - Funny Tikka Masala | 
 | 9:00pm  |  Dinner & DJ Dance Floor Opens… | 
-
 
 
 * Parking lot is across the street from Milan Banquets.
