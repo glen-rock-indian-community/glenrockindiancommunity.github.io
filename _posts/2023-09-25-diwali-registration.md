@@ -3,8 +3,8 @@ layout: post
 title:  "Diwali 2023 - Registrations Open!"
 categories: [ Cultural, Events ]
 image: assets/images/diwali_2023.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Glen Rock is back to celebrating Diwali in style again, with Drinks, DJ, Dance, Dinner and a lot more! 
