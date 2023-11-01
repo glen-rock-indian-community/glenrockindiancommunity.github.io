@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diwali 2023 - Registrations Open!"
+title:  "Diwali 2023 - Program Schedule"
 categories: [ Cultural, Events ]
 image: assets/images/diwali_banner_2023.png
 featured: true
