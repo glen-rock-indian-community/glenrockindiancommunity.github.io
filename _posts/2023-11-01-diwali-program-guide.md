@@ -3,8 +3,8 @@ layout: post
 title:  "Diwali 2023 - Program Schedule"
 categories: [ Cultural, Events ]
 image: assets/images/diwali_banner_2023.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 The excitement is building as we're just two days away from our Diwali celebration. We've put together an exciting program schedule to make this Diwali truly special. 
