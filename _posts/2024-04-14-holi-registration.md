@@ -2,6 +2,7 @@
 layout: post
 title:  "Holi 2024 - Registrations Open!"
 categories: [ Cultural, Events ]
+image: assets/images/holi_2024.png
 featured: true
 hidden: true
 ---
